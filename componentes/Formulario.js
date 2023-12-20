@@ -81,7 +81,8 @@ const styles = StyleSheet.create({
         backgroundColor : '#FFF',
         fontSize : 20,
         marginBottom : 20,
-        textAlign : 'center'
+        textAlign : 'center',
+        color : 'black'
     },
     btnBuscar : {
         marginTop : 50,
